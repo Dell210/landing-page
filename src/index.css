@@ -2,3 +2,29 @@
   margin: 0;
   padding: 0;
 }
+
+.button-default{
+  margin: auto;
+  padding: 3rem;
+  background-color: #ff1493;
+  color: #ffffff;
+  border-radius: 1.5rem;
+  border: none;
+  font-size: 2rem;
+  margin-top: 1rem;
+  width: 30.90rem;
+}
+
+.h2-default {
+  font-size: 3rem;
+  color: #ffd700;
+  text-shadow: 1px 2px 1px black;
+}
+
+.p-default {
+  font-size: 1.5rem;
+  color: #ffffff;
+  text-shadow: 1px 2px 1px black;
+  margin-bottom: 2rem;
+}
+
