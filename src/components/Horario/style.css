@@ -1,6 +1,9 @@
-.section-location{
+#section-horario{
     display: flex;
     justify-content: center;
     width: 65.83vw;
+    color: 	#000000;
+    font-size: 1.5rem;
 }
+
 

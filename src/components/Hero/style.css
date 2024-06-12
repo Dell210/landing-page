@@ -18,3 +18,9 @@
     border-radius: 2rem;
 }
 
+#section-hero > div > h2 {
+    animation: brilharTexto 2s infinite;
+}
+
+
+

@@ -1,10 +1,5 @@
-#section-contato{
+#section-sobre{
     display: flex;
     justify-content: center;
     width: 65.83vw;
-    color: 	#000000;
-    font-size: 2rem;
 }
-
-
-

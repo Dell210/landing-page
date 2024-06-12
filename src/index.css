@@ -8,7 +8,7 @@
 .button-default{
   margin: auto;
   padding: 2rem;
-  background-color: #ff1493;
+  background-color: #722F37;
   color: #ffffff;
   border-radius: 1.5rem;
   border: none;
@@ -17,6 +17,7 @@
   width: 30.90rem;
   cursor: pointer;
   transition: 1s;
+  animation: brilha 2s infinite, mover 2s infinite;
   &:hover{
     background-color: #ffffff;
     color: #ff1493;
@@ -39,6 +40,6 @@
 .box-default {
     border-radius: 2rem;
     padding: 2rem;
-    background-color: #8a2be2;
+    background-color: #FF2400
 }
 

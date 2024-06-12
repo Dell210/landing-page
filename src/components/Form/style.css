@@ -6,7 +6,7 @@
     border-radius: 2rem;
     width: 65.83vw;
     padding: 2rem;
-    background-color: #00bfff;
+    background-color: #FF2400;
 }
 
 #section-form > form{
@@ -35,3 +35,6 @@
     text-shadow: 1px 1px 2px black;
 }
     
+#section-form > h2 {
+    animation: brilharTexto 2s infinite;
+}

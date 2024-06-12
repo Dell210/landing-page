@@ -8,8 +8,8 @@ export function Header() {
         <nav>
             <ul>
                 <li> <a href="#section-hero">Home</a> </li>
-                <li> <a href="">Sobre</a> </li>
-                <li> <a href="">Cronograma</a> </li>
+                <li> <a href="#section-sobre">Sobre</a> </li>
+                <li> <a href="#section-horario">Cronograma</a> </li>
                 <li> <a href="#section-tickets">Ingressos</a> </li>
                 <li> <a href="#section-location">Localização</a> </li>
                 <li> <a href="#section-form">Newsletter</a> </li>
